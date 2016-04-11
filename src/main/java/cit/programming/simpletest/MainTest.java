@@ -9,9 +9,11 @@ package cit.programming.simpletest;
  *
  * @author cmneville
  */
+
+
 public class MainTest {
     public static void main(String[] args){
-        System.out.print("");
+        System.out.print("hello world");
         int i = 0;
     }
 }
