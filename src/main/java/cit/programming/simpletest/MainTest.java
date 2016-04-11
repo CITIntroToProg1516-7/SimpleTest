@@ -13,7 +13,7 @@ package cit.programming.simpletest;
 
 public class MainTest {
     public static void main(String[] args){
-        System.out.print("i like to sleep, hahaha");
+        System.out.print("hello world");
         int i = 0;
     }
 }
