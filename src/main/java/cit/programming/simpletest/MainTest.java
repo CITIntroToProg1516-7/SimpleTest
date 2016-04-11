@@ -11,7 +11,7 @@ package cit.programming.simpletest;
  */
 public class MainTest {
     public static void main(String[] args){
-        System.out.print("help");
+        System.out.print("Hello World!");
         int i = 0;
     }
 }
