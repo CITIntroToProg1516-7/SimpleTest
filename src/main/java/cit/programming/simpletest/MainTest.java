@@ -12,6 +12,9 @@ package cit.programming.simpletest;
 public class MainTest {
     public static void main(String[] args){
         System.out.print("");
-        int i = 0;
+        while (true){
+            int i = 0;
+            break;
+        }
     }
 }
