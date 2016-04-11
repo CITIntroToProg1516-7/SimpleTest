@@ -38,9 +38,10 @@ public class MainTestTest {
     
     @org.junit.Test
     public void testMain() {
-        System.out.println("main");
+        //System.out.println("main");
         String[] args = null;
         MainTest.main(args);
+        //assertEquals(1,1);
         assertEquals("hello world", out.toString());
         // TODO review the generated test code and remove the default call to fail.
         //fail("The test case is a prototype.");
