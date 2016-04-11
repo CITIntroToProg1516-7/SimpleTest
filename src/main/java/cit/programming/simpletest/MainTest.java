@@ -6,7 +6,7 @@
 package cit.programming.simpletest;
 
 /**
- *
+ * GIT GUD
  * @author cmneville
  */
 public class MainTest {
