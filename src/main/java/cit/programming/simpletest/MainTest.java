@@ -11,7 +11,10 @@ package cit.programming.simpletest;
  */
 public class MainTest {
     public static void main(String[] args){
-        System.out.print("");
-        int i = 0;
+        System.out.print("hello world");
+        while (true){
+            int i = 0;
+            break;
+        }
     }
 }
